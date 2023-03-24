@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohelkabir11" target="blank"><img src="https://img.shields.io/twitter/follow/sohelkabir11?logo=twitter&style=for-the-badge" alt="sohelkabir11" /></a> </p>
 
-- 🔭 I’m currently working on [Halkhata](https://play.google.com/store/apps/details?id=com.halkhata)
+- 🔭 I’m currently working on [Sidetrek](sidetrek.com)
 
 - 👨‍💻 All of my projects are available at [https://sohelkabir.info](https://sohelkabir.info)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sohel.nkabir@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1KXaBJK-GFXgL0mJUCEeFTMza_ETt1rsO/view?usp=drivesdk
+- 📄 Know about my experiences  [CV](https://drive.google.com/file/d/1KXaBJK-GFXgL0mJUCEeFTMza_ETt1rsO/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
