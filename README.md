@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sohel.nkabir@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1KXaBJK-GFXgL0mJUCEeFTMza_ETt1rsO/view?usp=drivesdk](Drive Link))
+- 📄 Know about my experiences https://drive.google.com/file/d/1KXaBJK-GFXgL0mJUCEeFTMza_ETt1rsO/view?usp=drivesdk
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
