@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohelkabir11" target="blank"><img src="https://img.shields.io/twitter/follow/sohelkabir11?logo=twitter&style=for-the-badge" alt="sohelkabir11" /></a> </p>
 
-- 🔭 I’m currently working on [Sidetrek](sidetrek.com)
+- 🔭 I’m currently working on [Algesoft](https://algesoft.com/)
 
 - 👨‍💻 All of my projects are available at [https://sohelkabir.info](https://sohelkabir.info)
 
