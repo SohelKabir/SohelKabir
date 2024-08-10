@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Algesoft](https://algesoft.com/)
 
-- 👨‍💻 All of my projects are available at [https://sohelkabir.info](https://sohelkabir.info)
+- 👨‍💻 All of my projects are available at [https://sohelkabir.github.io/](https://sohelkabir.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@sohelkabir](https://medium.com/@sohelkabir)
 
